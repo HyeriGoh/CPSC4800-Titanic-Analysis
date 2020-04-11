@@ -1,5 +1,11 @@
 # CPSC4800-Titanic-Analysis
 
+## Which directory contains what
+src: I uploaded source code of jupyter notebook in ipynb format
+result: I put results of the titanic analysis with plots
+doc: This directory is reserve for additional documents
+data: There is original csv file I worked with
+
 ## How users can get started with the project
   #### Hypothesis 1: the survival rate is associated to the class of passenger
   I categorized all dadta by Pclass and cointed both the number of survivlas in each class and the total number of passengers in each         class. Then, I calculated the survival rate. Since the Pclass is a categorical variable and survival rate is a numerical variable, Bar     graph with Pcalss on x axis is the most proper plot to show data.
